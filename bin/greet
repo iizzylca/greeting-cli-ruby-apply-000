@@ -7,4 +7,3 @@ name= gets.strip
 
 greeting(name)
 
-puts "Hello Don. Its nice to meet you"
